@@ -4,7 +4,7 @@
     introduction content to be hidden once the 
     repository is created off the template
 -->
-*This is a practice repo for practicing Git 'versioning'*
+
 # Create a release based workflow
 
 <details id=0>
